@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "RelimpPCR"]
+	path = RelimpPCR
+	url = https://github.com/mhernan88/relimppcr
+	shallow = true
+	registered = true
